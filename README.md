@@ -2,3 +2,4 @@
 # Numeral
 > Simbolo Mayor
 * Asterisco
+[ entre corchetes ]
