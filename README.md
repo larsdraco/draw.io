@@ -3,4 +3,4 @@
 > Simbolo Mayor
 * Asterisco
 
-| Pipe
+< xxxx >
