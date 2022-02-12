@@ -3,5 +3,4 @@
 > Simbolo Mayor
 * Asterisco
 
-[ entre corchetes ]
 | Pipe
