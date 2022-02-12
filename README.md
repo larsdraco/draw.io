@@ -4,3 +4,4 @@
 * Asterisco
 
 [ entre corchetes ]
+| Pipe
